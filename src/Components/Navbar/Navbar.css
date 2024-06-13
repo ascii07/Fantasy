@@ -1,0 +1,116 @@
+/* src/Components/Navbar/Navbar.css */
+
+/* General Navbar Styling */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: linear-gradient(to right, #000000, #540082, #9d008f);
+    color: #ffffff;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+
+  
+  /* Links Container */
+  .navbar-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-links a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1em;
+    transition: color 0.3s;
+  }
+  
+  .navbar-links a:hover {
+    color: #ffae00;
+  }
+  
+  /* Download Button */
+  .navbar-download .download-button {
+    padding: 10px 20px;
+    background-color: #ffae00;
+    border: none;
+    border-radius: 25px;
+    color: #ffffff;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .navbar-download .download-button:hover {
+    background-color: #cc8f00;
+    transform: scale(1.05);
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 1024px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .navbar-links {
+      flex-direction: column;
+      align-items: flex-start;
+      width: 100%;
+      margin-top: 10px;
+    }
+  
+    .navbar-links a {
+      padding: 5px 0;
+      font-size: 1.2em;
+      width: 100%;
+      text-align: center;
+    }
+  
+    .navbar-download .download-button {
+      width: 100%;
+      padding: 10px 0;
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .navbar {
+      padding: 10px;
+    }
+  
+    .navbar-logo .logo-text {
+      font-size: 1.5em;
+    }
+  
+    .navbar-links {
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+    }
+  
+    .navbar-download .download-button {
+      width: 100%;
+      padding: 8px 0;
+      font-size: 1.1em;
+      margin-top: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .navbar-logo .logo-text {
+      font-size: 1.2em;
+    }
+  
+    .navbar-links a {
+      font-size: 1em;
+    }
+  
+    .navbar-download .download-button {
+      font-size: 1em;
+    }
+  }
+  
