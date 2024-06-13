@@ -8,9 +8,9 @@ const PrivacyPolicy = () => {
       <img src={Privacy} alt="Terms and Conditions" style={styles.image} />
       </div>
     
-      <h1 style={styles.header}>Privacy Policy for PRO GO Fantasy Platform</h1>
+      <h1 style={styles.header}>Privacy Policy for WINNER GO Fantasy Platform</h1>
       <p style={styles.section}>
-        PRO GO Fantasy is India's most trusted fantasy sports promoter, providing a platform for a community of skilled gamers all over the country. PRO GO Fantasy is an Indian fantasy sports platform that allows users to play fantasy cricket, hockey, football, kabaddi, handball, basketball, volleyball, rugby, football, and baseball. We understand the needs and requirements for online fantasy sports in India and therefore provide you with a safe space to enjoy playing online. We strive to provide our users with better and faster results as well as a better and improved online fantasy sports experience. While providing our users a better experience, we also have a huge interest in promoting responsible games. The fantasy sports platforms that we provide are purely a source of entertainment. We want to make sure that users are here for the right reasons. We only promote online fantasy sports, with absolutely no opportunity to win anything of value, such as prizes and money.
+        WINNER GO Fantasy is India's most trusted fantasy sports promoter, providing a platform for a community of skilled gamers all over the country. WINNER GO Fantasy is an Indian fantasy sports platform that allows users to play fantasy cricket, hockey, football, kabaddi, handball, basketball, volleyball, rugby, football, and baseball. We understand the needs and requirements for online fantasy sports in India and therefore provide you with a safe space to enjoy playing online. We strive to provide our users with better and faster results as well as a better and improved online fantasy sports experience. While providing our users a better experience, we also have a huge interest in promoting responsible games. The fantasy sports platforms that we provide are purely a source of entertainment. We want to make sure that users are here for the right reasons. We only promote online fantasy sports, with absolutely no opportunity to win anything of value, such as prizes and money.
       </p>
       
       <h2 style={styles.subHeader}>What is Fantasy Sports?</h2>
@@ -18,12 +18,12 @@ const PrivacyPolicy = () => {
         Fantasy Sports is a form of virtual or online sports, where a user can create an online ID to play virtual matches or tournaments. The players are selected based on the player’s recent performances, the opposition, and the playing conditions, among other factors. Ever since its advent in the late 90s that coincided with the internet boom, Fantasy Sports has taken off and is played by millions of people worldwide. In India, Fantasy Sports has been an absolute revelation. Over 120 million people are a part of this bandwagon and the number is ever-growing.
       </p>
       <p style={styles.section}>
-        PRO GO Fantasy is a virtual platform for users to select players from a fixture (Cricket/Football/Kabaddi/Basketball/Baseball/Volleyball), earn points based on the player’s performance in fantasy games, and compete against thousands of fantasy sports players. It is one of India’s finest and most creative fantasy sports websites. The game interface ensures that the user has the most amazing gameplay experience. Including players who’ve had a good run of form have to be preferred over personal choices.
+        WINNER GO Fantasy is a virtual platform for users to select players from a fixture (Cricket/Football/Kabaddi/Basketball/Baseball/Volleyball), earn points based on the player’s performance in fantasy games, and compete against thousands of fantasy sports players. It is one of India’s finest and most creative fantasy sports websites. The game interface ensures that the user has the most amazing gameplay experience. Including players who’ve had a good run of form have to be preferred over personal choices.
       </p>
 
       <h2 style={styles.subHeader}>Secure Platform</h2>
       <p style={styles.section}>
-        Fantasy Sports on PRO GO Fantasy is super safe, secure, and legal. Fantasy cricket is a skill-based game and isn’t considered gambling. It is 100% legal in India. Go to PRO GO Fantasy now and start playing.
+        Fantasy Sports on WINNER GO Fantasy is super safe, secure, and legal. Fantasy cricket is a skill-based game and isn’t considered gambling. It is 100% legal in India. Go to WINNER GO Fantasy now and start playing.
       </p>
 
       <h2 style={styles.subHeader}>Terms and Conditions</h2>
@@ -36,7 +36,7 @@ const PrivacyPolicy = () => {
 
       <h2 style={styles.subHeader}>Introduction</h2>
       <p style={styles.section}>
-        <strong>1.1</strong> – These user terms & conditions (the “Agreement”), which includes those terms and conditions expressly set out below and those incorporated by reference including the terms of the Privacy Policy and the Game Rules (as defined in section 9 below), is an agreement between you (the “User”, “you” and “your”), and PRO GO Fantasy which governs your use of the products and services (“Services”) provided by the Company through the PRO GO Fantasy website. By using any of the Services you are agreeing to all the terms of this Agreement.
+        <strong>1.1</strong> – These user terms & conditions (the “Agreement”), which includes those terms and conditions expressly set out below and those incorporated by reference including the terms of the Privacy Policy and the Game Rules (as defined in section 9 below), is an agreement between you (the “User”, “you” and “your”), and WINNER GO Fantasy which governs your use of the products and services (“Services”) provided by the Company through the WINNER GO Fantasy website. By using any of the Services you are agreeing to all the terms of this Agreement.
       </p>
       <p style={styles.section}>
         <strong>1.2</strong> – If any of the terms of the Agreement are determined to be unlawful, invalid, void, or unenforceable for any reason, it shall not affect the validity and enforceability of the remaining terms. Any failure or delay on our part to act or exercise any right or remedy with respect to a breach of any of the terms of this Agreement by you shall not be construed as a waiver of our right to act with respect to the said breach or any prior, concurrent, subsequent, or similar breaches.
@@ -52,7 +52,7 @@ const PrivacyPolicy = () => {
 
       <h2 style={styles.subHeader}>Ownership</h2>
       <p style={styles.section}>
-        Use of the PRO GO Fantasy name and any of the other names or marks associated with the Platform, the Services, or the Software is strictly forbidden unless it is used with the express written permission of the Company. The Platform, the Services, and the Software, including its code, documentation, appearance, structure, and organization is an exclusive product of the Company, which retains all rights, tangible and intangible, to the PRO GO Fantasy website, the games therein, software, codes, copies, modifications, or merged parts.
+        Use of the WINNER GO Fantasy name and any of the other names or marks associated with the Platform, the Services, or the Software is strictly forbidden unless it is used with the express written permission of the Company. The Platform, the Services, and the Software, including its code, documentation, appearance, structure, and organization is an exclusive product of the Company, which retains all rights, tangible and intangible, to the WINNER GO Fantasy website, the games therein, software, codes, copies, modifications, or merged parts.
       </p>
 
       <h2 style={styles.subHeader}>Game Addiction</h2>

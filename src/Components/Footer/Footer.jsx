@@ -10,8 +10,8 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-logo">
-          <h2>PRO GO</h2>
-          <p>PRO GO is a fantasy sports game that exceeds all expectations</p>
+          <h2>WINNER GO</h2>
+          <p>WINNER GO is a fantasy sports game that exceeds all expectations</p>
         </div>
         <div className="footer-nav">
           <a href="/home">HOME</a>
@@ -40,7 +40,7 @@ const Footer = () => {
           Location Compliance: Our platform is not accessible from states where DFS is prohibited, including Andhra Pradesh, Assam, Nagaland, Odisha, Sikkim, and Telangana.</p>
           <p>This game involves an element of financial risk and may be addictive.</p>
           <p>Please play responsibly at your own work.</p>
-          <p>© 2024 PRO GO. All rights reserved.</p>
+          <p>© 2024 WINNER GO. All rights reserved.</p>
         </div>
       </div>
     </footer>

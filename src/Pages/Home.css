@@ -17,7 +17,7 @@
   align-items: center;
   width: 100%;
   max-width: 1200px;
-  background: linear-gradient(to right, #000000, #540082, #9d008f);
+  background: linear-gradient(to right, #c24949, #643d78, #8e1484);
   border-radius: 15px;
   padding: 40px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
@@ -370,7 +370,7 @@
 .user-testimonials-section {
   width: 100%;
   max-width: 1200px;
-  background: #540082;
+  background: blue;
   border-radius: 15px;
   padding: 40px;
   color: #fff;

@@ -9,19 +9,19 @@ const ResponsibleGaming = () => {
   <img src={Gaming} alt="Terms and Conditions" style={styles.image} />
   </div>
     <div style={styles.container}>
-      <h1 style={styles.header}>Responsible Gaming at PRO GO Fantasy</h1>
+      <h1 style={styles.header}>Responsible Gaming at WINNER GO Fantasy</h1>
       
       <h2 style={styles.subHeader}>Commitment to Responsible Gaming</h2>
       <p style={styles.section}>
-        PRO GO Fantasy is committed to responsible gaming and, as part of its corporate social responsibility, advises its users to follow responsible gaming practices as mentioned in the PRO GO Fantasy Responsible Gaming guide.
+        WINNER GO Fantasy is committed to responsible gaming and, as part of its corporate social responsibility, advises its users to follow responsible gaming practices as mentioned in the WINNER GO Fantasy Responsible Gaming guide.
       </p>
       <p style={styles.section}>
-        At PRO GO Fantasy, we are dedicated to ensuring that our users have a fun, entertaining, safe, secure, and responsible gaming experience. Thus, we have implemented a strict Responsible Gaming Policy.
+        At WINNER GO Fantasy, we are dedicated to ensuring that our users have a fun, entertaining, safe, secure, and responsible gaming experience. Thus, we have implemented a strict Responsible Gaming Policy.
       </p>
 
       <h2 style={styles.subHeader}>Responsible Gaming Policy for Fantasy</h2>
       <p style={styles.section}>
-        PRO GO Fantasy appreciates your love of gaming. As a result, we have implemented strict guidelines so that you can play your game and excel at it. Our player-focused project, Responsible Gaming for Fantasy Games, includes a list of carefully developed guidelines that you must follow in order to keep using our site.
+        WINNER GO Fantasy appreciates your love of gaming. As a result, we have implemented strict guidelines so that you can play your game and excel at it. Our player-focused project, Responsible Gaming for Fantasy Games, includes a list of carefully developed guidelines that you must follow in order to keep using our site.
       </p>
       <p style={styles.section}>
         We hope to make each day more fruitful and exciting for you through fantasy. The key components of our fantasy game responsible gaming policy are listed below:
@@ -33,7 +33,7 @@ const ResponsibleGaming = () => {
         <li>Play with a cheerful attitude and not to make up for previous “losses.”</li>
         <li>Please refrain from asking for money to play these games.</li>
         <li>Before moving ahead, be sure to consult your family and friends.</li>
-        <li>Additionally, we forbid gamers under the age of 18 from using our services. Please note that you cannot allow any children to play through your PRO GO Fantasy profile if you are an adult.</li>
+        <li>Additionally, we forbid gamers under the age of 18 from using our services. Please note that you cannot allow any children to play through your WINNER GO Fantasy profile if you are an adult.</li>
       </ul>
       <p style={styles.section}>
         From our end, we proactively monitor users and their activities for identifying vulnerable users and we reach out to them to ensure that they play responsibly. These measures include, but are not limited to, advising a user by email to exercise due caution if the user has lost more than Rs. 25,000 in a day, advising a user by calling to exercise due caution if the user has lost more than Rs. 75,000 in a week and offer them the option to either opt-out permanently or for a specific timeframe.

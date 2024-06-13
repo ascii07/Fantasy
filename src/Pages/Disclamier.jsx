@@ -9,14 +9,14 @@ const Disclaimer = () => {
       <img src={Disclamier} alt="Terms and Conditions" style={styles.image} />
       </div>
     <div style={styles.container}>
-      <h1 style={styles.header}>Disclaimer for PRO GO Fantasy Platform</h1>
+      <h1 style={styles.header}>Disclaimer for WINNER GO Fantasy Platform</h1>
       
       <h2 style={styles.subHeader}>General Information Disclaimer</h2>
       <p style={styles.section}>
-        The content and information provided on the PRO GO Fantasy Sports app are intended for general information purposes only. We strive to ensure that the information on our platform is accurate and up-to-date; however, we make no guarantees regarding its accuracy, completeness, or timeliness.
+        The content and information provided on the WINNER GO Fantasy Sports app are intended for general information purposes only. We strive to ensure that the information on our platform is accurate and up-to-date; however, we make no guarantees regarding its accuracy, completeness, or timeliness.
       </p>
       <p style={styles.section}>
-        PRO GO Fantasy is not liable for any inaccuracies or omissions in the content provided, nor for any actions users may take based on the information available on our app. Users should not interpret any of the information on PRO GO Fantasy as legal, financial, or professional advice.
+        WINNER GO Fantasy is not liable for any inaccuracies or omissions in the content provided, nor for any actions users may take based on the information available on our app. Users should not interpret any of the information on WINNER GO Fantasy as legal, financial, or professional advice.
       </p>
 
       <h2 style={styles.subHeader}>Risks and Responsibilities</h2>
@@ -24,15 +24,15 @@ const Disclaimer = () => {
         Engaging in fantasy sports inherently involves risks. Users are encouraged to exercise caution and consider these risks when making decisions based on the information provided by our platform. We recommend that users conduct their own research and consult with qualified professionals before making any financial or legal decisions related to their participation in fantasy sports.
       </p>
       <p style={styles.section}>
-        PRO GO Fantasy is designed for entertainment purposes only and does not advocate or support any form of gambling or illegal activities. Any references to real teams, players, or events are entirely coincidental and not intended to be taken as endorsements or promotions.
+        WINNER GO Fantasy is designed for entertainment purposes only and does not advocate or support any form of gambling or illegal activities. Any references to real teams, players, or events are entirely coincidental and not intended to be taken as endorsements or promotions.
       </p>
 
       <h2 style={styles.subHeader}>Liability and User Conduct</h2>
       <p style={styles.section}>
-        PRO GO Fantasy is not responsible for any losses or damages that may occur from using our app. Users are accountable for their own decisions and actions while engaging with fantasy sports games on our platform. It is imperative that users comply with all applicable local laws and regulations.
+        WINNER GO Fantasy is not responsible for any losses or damages that may occur from using our app. Users are accountable for their own decisions and actions while engaging with fantasy sports games on our platform. It is imperative that users comply with all applicable local laws and regulations.
       </p>
       <p style={styles.section}>
-        By using the PRO GO Fantasy Sports app, you agree to release PRO GO Fantasy and its affiliates from any claims, damages, or losses arising from your use of the app. You acknowledge that you understand and accept the terms of this disclaimer.
+        By using the WINNER GO Fantasy Sports app, you agree to release WINNER GO Fantasy and its affiliates from any claims, damages, or losses arising from your use of the app. You acknowledge that you understand and accept the terms of this disclaimer.
       </p>
 
       <h2 style={styles.subHeader}>Changes and Updates</h2>

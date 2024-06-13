@@ -10,22 +10,22 @@ const FairPlayViolation = () => {
       </div>
       <h1 style={styles.header}>Fair Play Violation</h1>
       <p style={styles.section}>
-        PRO GO Fantasy considers Fair Play to be a priority on its platform. Any user violating the Fair Play Terms of PRO GO Fantasy will face various consequences, including the potential blocking of the user's PRO GO Fantasy account.
+        WINNER GO Fantasy considers Fair Play to be a priority on its platform. Any user violating the Fair Play Terms of WINNER GO Fantasy will face various consequences, including the potential blocking of the user's WINNER GO Fantasy account.
       </p>
 
-      <h2 style={styles.subHeader}>What Constitutes a Fair Play Violation at PRO GO Fantasy?</h2>
+      <h2 style={styles.subHeader}>What Constitutes a Fair Play Violation at WINNER GO Fantasy?</h2>
       <ul style={styles.list}>
         <li>The people you refer should be genuine accounts. Users must not use fake accounts to gain the 'Refer & Earn' Cash Bonus.</li>
-        <li>The PAN cards of all your referred friends must be verified. If more than 9 of your referred friends' PAN cards are not verified, you will be considered in violation of the Fair Play Terms of PRO GO Fantasy.</li>
-        <li>Creating more than one account on the PRO GO Fantasy platform is a violation. PRO GO Fantasy neither allows nor encourages users to create multiple user accounts.</li>
+        <li>The PAN cards of all your referred friends must be verified. If more than 9 of your referred friends' PAN cards are not verified, you will be considered in violation of the Fair Play Terms of WINNER GO Fantasy.</li>
+        <li>Creating more than one account on the WINNER GO Fantasy platform is a violation. WINNER GO Fantasy neither allows nor encourages users to create multiple user accounts.</li>
         <li>Withdrawing your winnings by using unlawful or illegal means is considered a Fair Play violation.</li>
-        <li>Submitting fake copies or someone else’s documents during registration is a violation of the Fair Play Terms of PRO GO Fantasy.</li>
+        <li>Submitting fake copies or someone else’s documents during registration is a violation of the Fair Play Terms of WINNER GO Fantasy.</li>
         <li>If a user is found to be creating and using multiple accounts on a single device during regular platform audits, it will be considered a Fair Play violation. This will result in the withdrawal requests being put on hold.</li>
       </ul>
 
       <h2 style={styles.subHeader}>Consequences of Violating Fair Play Terms</h2>
       <p style={styles.section}>
-        If a user is found to be violating the Fair Play terms of PRO GO Fantasy, their account will be blocked. Furthermore, the total amount in the user's PRO GO Fantasy account will be reduced to zero.
+        If a user is found to be violating the Fair Play terms of WINNER GO Fantasy, their account will be blocked. Furthermore, the total amount in the user's WINNER GO Fantasy account will be reduced to zero.
       </p>
       <p style={styles.section}>
         Users creating multiple accounts on a single device must ensure that all mandatory verification formalities, including mobile, email, PAN card, and Bank Account details, are completed for all accounts. This process will facilitate smooth withdrawals for users with multiple accounts on a single device.
