@@ -11,8 +11,8 @@ import winner3 from '../Assets/winner3.png';
 const HomePage = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '../../public/my.apk'; // Replace this URL with your file path or URL
-    link.setAttribute('download', 'ProGoApp.apk');
+    link.href = '../../public/winnergo.apk'; // Replace this URL with your file path or URL
+    link.setAttribute('download', 'winnergo.apk');
     document.body.appendChild(link);
     link.click();
     link.remove();
