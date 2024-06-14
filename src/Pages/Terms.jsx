@@ -1141,7 +1141,7 @@ const TermsAndConditions = () => {
 
         <h2 style={styles.subHeader}>29. Cash Bonus</h2>
         <p style={styles.section}>
-          In these terms and across all communications, references to “CASH BONUS” shall mean “IPL Fan Fantasy Credits,” which can only be used and utilised on the WINNER GOFantasy platform. The terms “CASH BONUS” and “IPL Fan Fantasy Credits” are interchangeable and shall only mean “IPL Fan Fantasy Credits.”
+          In these terms and across all communications, references to “CASH BONUS” shall mean “WINNER GO Fantasy Credits,” which can only be used and utilised on the WINNER GO Fantasy platform. The terms “CASH BONUS” and “WINNER GO Fantasy Credits” are interchangeable and shall only mean “WINNER GO Fantasy Credits.”
         </p>
 
         <h2 style={styles.subHeader}>30. Disclaimer</h2>
