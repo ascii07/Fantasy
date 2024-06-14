@@ -62,7 +62,7 @@ const HomePage = () => {
       {/* New Pro Go Immersive World Section */}
       <section className="immersive-world-section">
         <div className="immersive-world-content">
-          <h2>JOIN THE IMMERSIVE WORLD OF WINNERE GO</h2>
+          <h2>JOIN THE IMMERSIVE WORLD OF WINNER GO</h2>
           <p>
           WINNER GO is a fantasy sports game that goes beyond expectations. With its breathtaking graphics, extensive customization options, robust community features, real-time updates, and a rewarding system, it delivers an unmatched gaming experience. For sports enthusiasts eager to showcase their managerial skills, WINNER GO is the ultimate game. Dive into the immersive world of WINNER GO and get ready to be captivated by the excitement and thrill of virtual sports management.
           </p>
